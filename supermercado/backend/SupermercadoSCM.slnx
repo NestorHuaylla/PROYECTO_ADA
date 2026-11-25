@@ -1,2 +1,11 @@
 <Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SupermercadoSCM.Api/SupermercadoSCM.Api.csproj" />
+    <Project Path="src/SupermercadoSCM.Application/SupermercadoSCM.Application.csproj" />
+    <Project Path="src/SupermercadoSCM.Domain/SupermercadoSCM.Domain.csproj" />
+    <Project Path="src/SupermercadoSCM.Infrastructure/SupermercadoSCM.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/SupermercadoSCM.Tests/SupermercadoSCM.Tests.csproj" />
+  </Folder>
 </Solution>
