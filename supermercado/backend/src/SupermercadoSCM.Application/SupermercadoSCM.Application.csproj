@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\SupermercadoSCM.Domain\SupermercadoSCM.Domain.csproj" />
+    <ProjectReference Include="..\SupermercadoSCM.Algorithms\SupermercadoSCM.Algorithms.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

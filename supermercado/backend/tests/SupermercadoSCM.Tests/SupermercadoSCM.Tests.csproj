@@ -21,6 +21,7 @@
   <ItemGroup>
     <ProjectReference Include="..\..\src\SupermercadoSCM.Application\SupermercadoSCM.Application.csproj" />
     <ProjectReference Include="..\..\src\SupermercadoSCM.Domain\SupermercadoSCM.Domain.csproj" />
+    <ProjectReference Include="..\..\src\SupermercadoSCM.Algorithms\SupermercadoSCM.Algorithms.csproj" />
   </ItemGroup>
 
 </Project>

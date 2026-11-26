@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/src/">
+    <Project Path="src/SupermercadoSCM.Algorithms/SupermercadoSCM.Algorithms.csproj" />
     <Project Path="src/SupermercadoSCM.Api/SupermercadoSCM.Api.csproj" />
     <Project Path="src/SupermercadoSCM.Application/SupermercadoSCM.Application.csproj" />
     <Project Path="src/SupermercadoSCM.Domain/SupermercadoSCM.Domain.csproj" />
